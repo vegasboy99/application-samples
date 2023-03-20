@@ -6,7 +6,7 @@ metadata:
   name: pacman-haproxy
   namespace: pacman
 spec:
-  host: pacman.bos.chris.ocs.ninja 
+  host: pacman.hostname
   path: "/"
   to:
     kind: Service
